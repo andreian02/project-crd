@@ -1,10 +1,12 @@
 <script>
 	import "../app.css";
+	import Analytics from "$lib/+analytics.svelte";
 </script>
 
 <div class="app">
-
+	
     <main>
+		<Analytics />
 		<slot />
 	</main>
 
