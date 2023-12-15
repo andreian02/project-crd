@@ -7,7 +7,7 @@
 </script>
 
 <h1 class="mb-2 text-3xl font-bold tracking-tight md:text-5xl py-2">紅樓夢</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<p>花谢花飞飞满天，红消香断有谁怜</p>
 
 <div class="chart">
 	<NetworkGraph graph={data} />
