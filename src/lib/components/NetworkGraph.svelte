@@ -7,6 +7,6 @@
 
 <!-- <svelte:window on:resize={resize} /> -->
 
-<h1>this is the network graph with images</h1>
+<!-- <h1>this is the network graph with images</h1> -->
 
 <div class="container" use:networkGraph={{ data: graph }} />
