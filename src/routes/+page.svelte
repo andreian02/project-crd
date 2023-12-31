@@ -8,6 +8,7 @@
 
 <h1 class="mb-2 text-3xl font-bold tracking-tight md:text-5xl py-2">紅樓夢</h1>
 <p>花谢花飞飞满天，红消香断有谁怜?</p>
+<br>
 
 <div class="chart">
 	<NetworkGraph graph={data} />
